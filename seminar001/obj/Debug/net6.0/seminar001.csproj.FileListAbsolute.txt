@@ -1,0 +1,15 @@
+D:\GeekBrains\Учебная папка\C#(c-sharp)\seminar001\bin\Debug\net6.0\seminar001.exe
+D:\GeekBrains\Учебная папка\C#(c-sharp)\seminar001\bin\Debug\net6.0\seminar001.deps.json
+D:\GeekBrains\Учебная папка\C#(c-sharp)\seminar001\bin\Debug\net6.0\seminar001.runtimeconfig.json
+D:\GeekBrains\Учебная папка\C#(c-sharp)\seminar001\bin\Debug\net6.0\seminar001.dll
+D:\GeekBrains\Учебная папка\C#(c-sharp)\seminar001\bin\Debug\net6.0\seminar001.pdb
+D:\GeekBrains\Учебная папка\C#(c-sharp)\seminar001\obj\Debug\net6.0\seminar001.csproj.AssemblyReference.cache
+D:\GeekBrains\Учебная папка\C#(c-sharp)\seminar001\obj\Debug\net6.0\seminar001.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Учебная папка\C#(c-sharp)\seminar001\obj\Debug\net6.0\seminar001.AssemblyInfoInputs.cache
+D:\GeekBrains\Учебная папка\C#(c-sharp)\seminar001\obj\Debug\net6.0\seminar001.AssemblyInfo.cs
+D:\GeekBrains\Учебная папка\C#(c-sharp)\seminar001\obj\Debug\net6.0\seminar001.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Учебная папка\C#(c-sharp)\seminar001\obj\Debug\net6.0\seminar001.dll
+D:\GeekBrains\Учебная папка\C#(c-sharp)\seminar001\obj\Debug\net6.0\refint\seminar001.dll
+D:\GeekBrains\Учебная папка\C#(c-sharp)\seminar001\obj\Debug\net6.0\seminar001.pdb
+D:\GeekBrains\Учебная папка\C#(c-sharp)\seminar001\obj\Debug\net6.0\seminar001.genruntimeconfig.cache
+D:\GeekBrains\Учебная папка\C#(c-sharp)\seminar001\obj\Debug\net6.0\ref\seminar001.dll
