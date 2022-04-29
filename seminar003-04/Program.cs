@@ -2,7 +2,7 @@
 
 void ListOfSquares(int N)
 {
-    int num = 0;
+    int num = 1;
 
     while(num <= N)
     {
