@@ -25,7 +25,7 @@ void SymmetrMult(int[] array)
     for (int i = 0; i < array.Length/2; i++)
     {
         int num1 = array[i];
-        int num2 = array.Length - (i + 1);
+        int num2 = array[array.Length - (i + 1)];
         int result = num1 * num2;
         Console.WriteLine("Multiplication №" + (i + 1) + " of " + num1 + " and " + num2 + " is: " + result);
     }
