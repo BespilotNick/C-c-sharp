@@ -34,4 +34,5 @@ void SymmetrMult(int[] array)
 
 int[] myArray = CreateArray(size, min, max);
 ShowArray(myArray);
+Console.WriteLine();
 SymmetrMult(myArray);
