@@ -18,6 +18,12 @@ void ShowSeqFibonacci(int[] array)
     Console.WriteLine();
 }
 
-Console.WriteLine("How many digits of the Fibonacci sequence do you want to see?  ");
+Console.WriteLine("How many first digits of the Fibonacci sequence do you want to see?  ");
 int usernum = Convert.ToInt32(Console.ReadLine());
-ShowSeqFibonacci(SeqFibonacci(usernum));
+if (usernum == 1)
+    Console.WriteLine("First digit of the Fibonacci sequence is: 0");
+else if (usernum < 1)
+    Console.WriteLine("Incorrect number! Please, input positive number that more than 0");
+else
+    Console.Write("First " + usernum + " digits of the Fibonacci sequence are: ");
+    ShowSeqFibonacci(SeqFibonacci(usernum));
