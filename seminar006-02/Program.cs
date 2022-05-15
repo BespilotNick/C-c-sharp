@@ -16,12 +16,23 @@ void ShowArray(int[] array)
     Console.WriteLine();
 }
 
+/*
 int[] ReverseArray(int[] array)
 {
     int[] revArray = new int[array.Length];
 
     for (int i = 0; i < array.Length; i++)
         revArray[i] = array[(array.Length - 1) - i];
+    return revArray;
+}
+*/
+
+int[] ReverseArray(int[] array)
+{
+    int[] revArray = new int[array.Length];
+
+    for (int i = 0, j = array.Length - 1; i < array.Length; i++, j--)
+        revArray[i] = array[j];
     return revArray;
 }
 
