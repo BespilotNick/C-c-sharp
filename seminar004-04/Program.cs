@@ -1,4 +1,4 @@
-﻿// Making an array and fiiling it up by random 1 and 0
+﻿// Making an array and filling it up by random 1 and 0
 
 void PrintArray(int[,] matr)
 {
